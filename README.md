@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ralph El Haddad
+- 👀 I’m a Masters student in Electrical Engineering at EPFL
+- 🌱 I’m currently specializing in Data Science and minoring in Management
+- 💞️ I’m looking for a summer internship for July-August 2022
+- 📫 How to reach me: ralph.elhaddad@epfl.ch
