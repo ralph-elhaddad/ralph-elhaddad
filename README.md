@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ralph El Haddad
 - 👀 I’m a Masters student in Electrical Engineering at EPFL
 - 🌱 I’m currently specializing in Data Science and minoring in Management of Technologies
-- 💞️ Currently working as Data Analyst for Procsim Sarl 
+- 💞️ Currently working PT as Data Analyst for Procsim Sarl 
 - 📫 How to reach me: ralph.elhaddad@epfl.ch
